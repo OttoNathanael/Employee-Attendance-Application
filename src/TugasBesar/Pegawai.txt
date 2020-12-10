@@ -1,0 +1,19 @@
+1319001;Bambang;JL. Kopo1 No.2;Janitor;081219102001
+1319002;Jack;JL. Kopo2 No.22;Manager;081219102002
+1319003;James;JL. Kopo3 No.24;Supervisor;081219102003
+1319004;Susi;JL. Kopo4 No.3;Janitor;081219102004
+1319005;Doni;JL. kopo5 No.90;Direktur utama;081219102005
+1319006;lidya;JL. kopo6 No.12;Gudang;081219102006
+1319007;carswell;JL. kopo7 No.21;karyawan;081219102007
+1319008;William;JL. kopo8 No.44;Direktur keuangan;081220828418
+1319009;nutty;JL. kopo9 No.67;Manager pemasaran;081219102009
+1319010;sule;JL. kopo10 No.34;Karyawan;081219102010
+1319011;conny;JL. kopo11 No.57;Manager;081219102011
+1319012;Aurelia;JL. kopomas No.82;Janitor;081219102012
+1319013;rebeca;JL. kopo13 No.11;Janitor;081219102013
+1319014;devin;JL. kopo14 No.23;Direktur;081219102014
+1319015;varen;JL. kopo15 No.221;Janitor;081219102015
+1319016;pakrennnnnnnnnnn;JL. taman rahayu;manager;098765489322
+1319017;vikri;JL. sekeloa;student;098763899733
+1319018;Sutarjo;JL. Lembang No. 34;Janitor;091823237466
+1319019;Audrey Andrea;Holis;Mantan;082218224659

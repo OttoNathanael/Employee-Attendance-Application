@@ -1,0 +1,2 @@
+1319001;Bambang;Janitor;Tidak masuk kerja;3 hari;Sakit;10-12-2020;-
+1319001;Bambang;Janitor;Keluar kantor;2 jam;Izin;11-12-2020;-
